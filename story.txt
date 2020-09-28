@@ -5,4 +5,7 @@ Max started to spin around super, super fast. All of a sudden, in his place ther
 He flew around the bar, breathing fire in everyone's faces. Some of the patrons cowered in fear and some tried to run for the door. However, Max the fire breathing dragon 
 flew in front of the door and didn't let anyone escape! Instead, he motioned for something from outside of the bar to come in and join him.
 
-It was a cup of boba tea! A giant cup holding countless bobas and full of 2% milk inside. And it even talks :"Hello you small creatures, I am the king of Boba Kingsom, I am here to teach you how to write java codes.". Suddenly, he pulled out a computer and taught people how to write hashtableMap.java. What an amazing day.
+It was a cup of boba tea! A giant cup holding countless bobas and full of 2% milk inside. 
+And it even talks :"Hello you small creatures, I am the king of Boba Kingsom, I am here to teach you how to write java codes." 
+Suddenly, he pulled out a computer and taught people how to write hashtableMap.java. 
+What an amazing day.
